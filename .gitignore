@@ -1,3 +1,5 @@
 nytaxi_postgres_data
 csv
 .ipynb_checkpoints
+code_sample.sh
+output.csv.gz
