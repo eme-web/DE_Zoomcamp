@@ -5,5 +5,4 @@ code_sample.sh
 output.csv.gz
 .terraform
 .terraform.lock.hcl
-.terraform-version
 terraform.tfstate
