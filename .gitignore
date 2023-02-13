@@ -6,3 +6,11 @@ output.csv.gz
 .terraform
 .terraform.lock.hcl
 terraform.tfstate
+terraform.tfstate.backup
+green_tripdata_2020-01.parquet
+.prefectignore
+etl_bq_flow-deployment.yaml
+etl_web_gcs-deployment.yaml
+__pycache__ 
+yellow_tripdata_2019-02.parquet
+yellow_tripdata_2019-03.parquet
