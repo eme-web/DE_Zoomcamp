@@ -14,3 +14,8 @@ etl_web_gcs-deployment.yaml
 __pycache__ 
 yellow_tripdata_2019-02.parquet
 yellow_tripdata_2019-03.parquet
+# Default .gitignore content added by dbt Cloud
+target/
+dbt_packages/
+logs/
+# end dbt Cloud content
